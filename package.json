@@ -1,0 +1,28 @@
+{
+	"name": "jquery.replaceEntities",
+	"version": "1.0.0",
+	"description": "Simple jQuery plugin for replacing html entities and returning the result.",
+	"homepage": "https://github.com/michael-lawrence/jquery.decodeEntities",
+	"contributors": [
+		"Michael Lawrence <mike@pandemicode.com> (http://pandemicode.com/)"
+	],
+	"keywords": [
+		"jquery",
+		"decode",
+		"entity"
+	],
+	"main": "./jquery.replaceEntities",
+	"dependencies": {
+		"jquery" : "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/michael-lawrence/jquery.replaceEntities.git"
+	},
+	"bugs": {
+		"url": "https://github.com/michael-lawrence/jquery.replaceEntities/issues"
+	},
+	"licenses" : [
+		{ "type" : "MIT" }
+	]
+}
